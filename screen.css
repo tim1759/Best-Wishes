@@ -1,4 +1,10 @@
 #wrapper {
+  max-width: 451px;
+  height: 454px;
+  position: relative;
+  margin: 10px auto;
+  background: #453a36;
+  border: solid 5px #453a36;
 }
 
   .white {
