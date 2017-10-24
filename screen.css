@@ -4,14 +4,23 @@
   position: relative;
   margin: 10px auto;
   background: #453a36;
-  border: solid 5px #453a36;
 }
 
   .white {
+    position: relative;
+    margin: 5px auto;
 }
 
   #white_med_1 {
+    max-width: 200px;
+    height: 200px;
+    background-color: #0000ff;
+    border: solid 2px #0000ff;
 }
 
   #white_med_2 {
+    max-width: 100px;
+    height: 200px;
+    background-color: #ffffff;
+    border: solid 2px #ffffff;
 }
